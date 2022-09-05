@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jpmeneguel
+- 👀 I’m interested in aprender a programar novas linguagens
+- 🌱 I’m currently learning a linguagem de javaScript e Scratch
